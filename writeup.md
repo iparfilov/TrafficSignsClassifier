@@ -20,11 +20,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/stats.png "Examples distribution"
-[image4]: ./signs_from_web/image33.jpg
-[image5]: ./signs_from_web/image5.jpg
-[image6]: ./signs_from_web/image1.jpg
-[image7]: ./signs_from_web/image2.jpg
-[image8]: ./signs_from_web/image3.jpg
+[image4]: ./signs_from_web/image33.jpg "Sign 1"
+[image5]: ./signs_from_web/image5.jpg "Sign 2"
+[image6]: ./signs_from_web/image1.jpg "Sign 3"
+[image7]: ./signs_from_web/image2.jpg "Sign 4"
+[image8]: ./signs_from_web/image3.jpg "Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -118,11 +118,8 @@ If a well known architecture was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4]
-![alt text][image5]
-![alt text][image6]
-![alt text][image7]
-![alt text][image8]
+![alt text][image4] ![alt text][image5] ![alt text][image6]
+![alt text][image7] ![alt text][image8]
 
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
