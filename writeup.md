@@ -21,10 +21,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/stats.png "Examples distribution"
 [image4]: ./signs_from_web/image33.jpg "Sign 1"
-[image5]: ./signs_from_web/image5.jpg "Sign 2"
-[image6]: ./signs_from_web/image1.jpg "Sign 3"
-[image7]: ./signs_from_web/image2.jpg "Sign 4"
-[image8]: ./signs_from_web/image3.jpg "Sign 5"
+[image5]: ./signs_from_web/image5.png "Sign 2"
+[image6]: ./signs_from_web/image1.png "Sign 3"
+[image7]: ./signs_from_web/image2.png "Sign 4"
+[image8]: ./signs_from_web/image3.png "Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
