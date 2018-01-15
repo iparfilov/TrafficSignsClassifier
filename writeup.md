@@ -19,14 +19,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image1]: ./examples/stats.png "Examples distribution"
+[image4]: ./signs_from_web/image33.jpg
+[image5]: ./signs_from_web/image5.jpg
+[image6]: ./signs_from_web/image1.jpg
+[image7]: ./signs_from_web/image2.jpg
+[image8]: ./signs_from_web/image3.jpg
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -60,7 +58,7 @@ Number of classes = 43
 
 Here is an exploratory visualization of the data set. It is a bar chart showing data distribution in training set.
 
-[image1]: ./examples/stats.png "Examples distribution"
+![alt text][image1]
 
 ### Design and Test a Model Architecture
 
@@ -120,13 +118,12 @@ If a well known architecture was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-[image4]: ./signs_from_web/image33.jpg
-[image5]: ./signs_from_web/image5.jpg
-[image6]: ./signs_from_web/image1.jpg
-[image7]: ./signs_from_web/image2.jpg
-[image8]: ./signs_from_web/image3.jpg
+![alt text][image4]
+![alt text][image5]
+![alt text][image6]
+![alt text][image7]
+![alt text][image8]
 
-The first image might be difficult to classify because ...
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
