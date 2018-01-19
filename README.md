@@ -9,6 +9,7 @@ Traffic signs classifier
     
     Then:
     
+```bash
     git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
 
     conda env create -f environment.yml
@@ -16,3 +17,4 @@ Traffic signs classifier
     source activate carnd-term1
 
     jupyter notebook Traffic_Sign_Classifier.ipynb
+```
